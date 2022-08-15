@@ -13,8 +13,8 @@ I'm working on modernizing a large, complex baseline from aging technologies to 
 Then there's **user experience design**. I greatly admire the pros so I enjoy learning and practicing it myself in hopes to grow that skill on my own.
 
 ## How to Reach Me 📬
-[Gmail](mailto:briedinger@gmail.com)
-![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)
+[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:briedinger@gmail.com)
+
 
 
 
