@@ -1,17 +1,21 @@
 ### Brian Riedinger
 
 ## A Little Bit About Me 👋
-I enjoy creating web applications as a software engineer. I have years of expertise as a **front-end developer** and I currently oversee a team as an **engineering manager**.
+I'm a **front end developer** and a **software engineering manager**.
 
-I supervise a group of developers as a lead and serve as the product owner for a certain product line. I create the product roadmap to meet the needs of our clients and manage a team that designs, develops, produces, and maintains a set of apps.
+I enjoy designing and creating usable products for the web. I have extensive experience taking part in every stage of product development -- from user experience design, to software design, development, and maintenance. I have also supervized a full-stack team and served as their **product owner**, where I grew the user base by creating and realizing the application roadmap.
 
-I stay involved and contribute technically to the foundation of the program. I work on adding new features, addressing bugs, testing, and mentoring while also assisting in the creation and communication of software ideas.
+No matter my job function, I stay involved and contribute technically to the foundation of the program. I work on adding new features, addressing bugs, testing, and mentoring while also assisting in the creation and communication of software ideas.
 
 ## What I'm Currently Learning
-I
+I'm working on modernizing a large, complex baseline from aging technologies to *Svelte**, native **Javascript** & *CSS* language features. Additionally, I'm exploring technologies such as Tailwind, Vite, and file system-based routing utilities.
+
+Then there's **user experience design**. I greatly admire the pros so I enjoy learning and practicing it myself in hopes to grow that skill on my own.
 
 ## How to Reach Me 📬
-![Gmail](mailto:briedinger@gmail.com)
+[Gmail](mailto:briedinger@gmail.com)
+![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)
+
 
 
 <!--
