@@ -1,9 +1,9 @@
 ### Brian Riedinger
 
 ## A Little Bit About Me 👋
-I'm a **front end developer** and a **software engineering manager**.
+I'm a **front end developer** and a **software lead**.
 
-I enjoy designing and creating usable products for the web. I have extensive experience taking part in every stage of product development -- from user experience design, to software design, development, and maintenance. I am currently supervizing a full-stack team and serving as the **product owner**, where I have increased user adoption by creating and realizing the application roadmap.
+My passion is designing and developing usable products for the web. As a **developer**, I participate in all phases of the product development process, including the design, creation, maintenance, and user support of a a product software system. As a lead, I oversee the develeopment process and monitor goals for a full-stack team, where I have been able to boost user adoption by developing and implementing the application roadmap.
 
 No matter my job function, I stay involved and contribute technically to the foundation of the program. I work on adding new features, addressing bugs, testing, and mentoring while also assisting in the creation and communication of software ideas.
 
